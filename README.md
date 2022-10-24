@@ -1,5 +1,5 @@
 # sheiboi_pytest_POMbased_Allure_report
-pytest,allure report
+Python
 
 * Setup Allure on Windows
 first exact file > copy or cut it > go to paste C drive > copy bin path add env path
