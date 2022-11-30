@@ -58,3 +58,8 @@ python -m pytest <filename.py> --alluredir="report path"   ********
 
 python -m allure serve "report path"
 
+https://steady-belekoy-82573d.netlify.app/
+
+![image](https://user-images.githubusercontent.com/85762815/204797894-78e682cd-7a73-44ba-90c4-42e8983b66a5.png)
+
+
