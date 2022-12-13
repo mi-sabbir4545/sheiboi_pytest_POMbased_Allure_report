@@ -21,6 +21,8 @@ pytest (location) -v -n 3 --html=report.html
 
 pytest run:
 -----------------
+pip install -r .\PyTest\requirements.txt
+
 pytest -v -s (location)
 
 Run all tests(from all modules)in a path
